@@ -1,0 +1,1 @@
+/* empty css                    */import{m as o,o as r,e as t,E as n}from"./entry.f7add4ad.js";const s={};function c(e,a){return r(),t("em",null,[n(e.$slots,"default",{},void 0,!0)])}const l=o(s,[["render",c],["__scopeId","data-v-5f2dc456"]]);export{l as default};
